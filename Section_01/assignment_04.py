@@ -20,7 +20,8 @@ word2 = "Truck"
 
 # Your code below:
 
-
+sentence = word1[1:] + word2[:1] + word2[2:]
+print(sentence)
 
 
 
