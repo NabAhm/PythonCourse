@@ -22,7 +22,10 @@ word = "Cool"
 
 # Your code below:
 
-
+chars = '<<>>'
+word = 'hello'
+result = chars[:2] + word + chars[2:]
+print(result)
 
 
 
